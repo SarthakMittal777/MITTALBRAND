@@ -1,0 +1,28 @@
+.elementor-10419 .elementor-element.elementor-element-598ec38{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:4% 9.5% 4% 9.5%;}.elementor-10419 .elementor-element.elementor-element-598ec38 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-10419 .elementor-element.elementor-element-590dcd5 > .elementor-widget-container{padding:0% 0% 2% 0%;}.elementor-10419 .elementor-element.elementor-element-590dcd5{text-align:center;}.elementor-10419 .elementor-element.elementor-element-590dcd5 .elementor-heading-title{color:#BC8431;font-family:"RM Connect", Sans-serif;font-size:3.854vw;font-weight:400;line-height:1.5em;}.elementor-10419 .elementor-element.elementor-element-32f5cf8 > .elementor-widget-container{padding:0% 10% 0% 10%;}.elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(25px/2);}.elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(25px/2);}.elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(25px/2);margin-left:calc(25px/2);}.elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-25px/2);margin-left:calc(-25px/2);}body.rtl .elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-25px/2);}body:not(.rtl) .elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-25px/2);}.elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-icon i{transition:color 0.3s;}.elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-icon svg{transition:fill 0.3s;}.elementor-10419 .elementor-element.elementor-element-32f5cf8{--e-icon-list-icon-size:1.25vw;--icon-vertical-offset:0px;}.elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-icon{padding-right:20px;}.elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-item > a{font-family:"Montserrat", Sans-serif;font-size:1.302vw;font-weight:300;}.elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-text{color:#FFFFFF;transition:color 0.3s;}@media(max-width:1024px){.elementor-10419 .elementor-element.elementor-element-598ec38{padding:4% 5% 4% 5%;}.elementor-10419 .elementor-element.elementor-element-590dcd5 > .elementor-widget-container{padding:0% 0% 0% 0%;}.elementor-10419 .elementor-element.elementor-element-590dcd5 .elementor-heading-title{font-size:5vw;}.elementor-10419 .elementor-element.elementor-element-32f5cf8{--e-icon-list-icon-size:2vw;}.elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-item > a{font-size:1.8vw;}}@media(max-width:767px){.elementor-10419 .elementor-element.elementor-element-598ec38{padding:7% 3% 7% 3%;}.elementor-10419 .elementor-element.elementor-element-590dcd5 .elementor-heading-title{font-size:10vw;}.elementor-10419 .elementor-element.elementor-element-32f5cf8 > .elementor-widget-container{padding:0% 5% 0% 0%;}.elementor-10419 .elementor-element.elementor-element-32f5cf8{--e-icon-list-icon-size:5vw;}.elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-10419 .elementor-element.elementor-element-32f5cf8 .elementor-icon-list-item > a{font-size:4vw;}}/* Start custom CSS for section, class: .elementor-element-598ec38 */.gold-gradient h2{
+    
+    background: linear-gradient(180deg, #BC8431 -64.65%, #ECC777 -49.61%, #FEF7DF -40.89%, #ECC777 -21.74%, #BC8431 -16.81%, #ECC777 -11.16%, #FEF7DF 7.25%, #ECC777 23.05%, #BC8431 28.76%, #ECC777 34.57%, #FEF7DF 53.11%, #ECC777 64.72%, #BC8431 79.76%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.imagine-list ul li{
+    
+    align-items: start !important;
+}
+
+.imagine-list ul li .elementor-icon-list-icon{
+    
+    margin-top: 0.4vw !important;
+}
+
+.imagine-list ul li strong{
+    
+    background: linear-gradient(178.25deg, #FFF2C6 1.49%, #BD8332 155.45%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    font-weight: 500;
+}/* End custom CSS */

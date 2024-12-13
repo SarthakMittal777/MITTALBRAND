@@ -1,0 +1,28 @@
+.elementor-756 .elementor-element.elementor-element-0dabe23:not(.elementor-motion-effects-element-type-background), .elementor-756 .elementor-element.elementor-element-0dabe23 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../../2021/03/influex-section-01-background.jpg");background-position:top center;background-repeat:no-repeat;background-size:cover;}.elementor-756 .elementor-element.elementor-element-0dabe23{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:12% 0% 7% 0%;}.elementor-756 .elementor-element.elementor-element-0dabe23 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-756 .elementor-element.elementor-element-fc77fc8{text-align:center;}.elementor-756 .elementor-element.elementor-element-fc77fc8 .elementor-heading-title{color:#101028;font-family:"Montserrat", Sans-serif;font-size:3.802vw;font-weight:700;text-transform:capitalize;}.elementor-756 .elementor-element.elementor-element-7783081{padding:3% 10% 3% 10%;}.elementor-756 .elementor-element.elementor-element-7aec149{text-align:left;color:#101028;font-family:"Montserrat", Sans-serif;font-size:1.302vw;font-weight:500;}@media(max-width:1024px){.elementor-756 .elementor-element.elementor-element-0dabe23{padding:90px 20px 40px 20px;}.elementor-756 .elementor-element.elementor-element-fc77fc8 .elementor-heading-title{font-size:5vw;}.elementor-756 .elementor-element.elementor-element-7783081{padding:30px 50px 30px 50px;}.elementor-756 .elementor-element.elementor-element-7aec149{font-size:2vw;}}@media(max-width:767px){.elementor-756 .elementor-element.elementor-element-0dabe23{padding:90px 10px 50px 10px;}.elementor-756 .elementor-element.elementor-element-fc77fc8 .elementor-heading-title{font-size:10vw;}.elementor-756 .elementor-element.elementor-element-7783081{padding:20px 10px 20px 10px;}.elementor-756 .elementor-element.elementor-element-7aec149{font-size:16px;}}/* Start custom CSS */body {
+  background-color: #fff;
+}
+
+.text-wrap p{
+    
+    line-height: 1.8em;
+}
+
+.text-wrap li{
+    
+    line-height: 1.8em;
+    margin-bottom: 15px;
+}
+
+.text-wrap ul{
+    
+    margin: 30px 0;
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 769px) {
+  .section-01 {
+    padding: 140px 20px 70px 20px !important;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+}/* End custom CSS */

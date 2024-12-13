@@ -1,0 +1,40 @@
+.elementor-753 .elementor-element.elementor-element-2dd194f:not(.elementor-motion-effects-element-type-background), .elementor-753 .elementor-element.elementor-element-2dd194f > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../../2021/03/influex-section-01-background.jpg");background-position:top center;background-repeat:no-repeat;background-size:cover;}.elementor-753 .elementor-element.elementor-element-2dd194f{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:12% 0% 7% 0%;}.elementor-753 .elementor-element.elementor-element-2dd194f > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-753 .elementor-element.elementor-element-8d07cf1{text-align:center;}.elementor-753 .elementor-element.elementor-element-8d07cf1 .elementor-heading-title{color:#101028;font-family:"Montserrat", Sans-serif;font-size:3.802vw;font-weight:700;text-transform:capitalize;}.elementor-753 .elementor-element.elementor-element-ad6ce7c{padding:3% 10% 3% 10%;}.elementor-753 .elementor-element.elementor-element-e867ccd{color:#101028;font-family:"Montserrat", Sans-serif;font-size:1.302vw;font-weight:400;}@media(max-width:1024px){.elementor-753 .elementor-element.elementor-element-2dd194f{padding:90px 20px 40px 20px;}.elementor-753 .elementor-element.elementor-element-8d07cf1 .elementor-heading-title{font-size:5vw;}.elementor-753 .elementor-element.elementor-element-ad6ce7c{padding:30px 50px 30px 50px;}.elementor-753 .elementor-element.elementor-element-e867ccd{font-size:2vw;}}@media(max-width:767px){.elementor-753 .elementor-element.elementor-element-2dd194f{padding:90px 10px 50px 10px;}.elementor-753 .elementor-element.elementor-element-8d07cf1 .elementor-heading-title{font-size:10vw;}.elementor-753 .elementor-element.elementor-element-ad6ce7c{padding:20px 10px 20px 10px;}.elementor-753 .elementor-element.elementor-element-e867ccd{font-size:16px;}}/* Start custom CSS */body {
+  background-color: #fff;
+}
+
+.text-wrap h2 {
+  font-family: "Montserrat", Sans-Serif;
+  font-size: 2vw;
+}
+
+.text-wrap h3 {
+  font-weight: 400;
+  font-size: 1.8vw;
+  margin: 10px 0;
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 769px) {
+  .section-01 {
+    padding: 140px 20px 70px 20px !important;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .text-wrap h2 {
+    font-size: 3vw;
+  }
+
+  .text-wrap h3 {
+    font-size: 2.5vw;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .text-wrap h2 {
+    font-size: 25px;
+  }
+
+  .text-wrap h3 {
+    font-size: 22px;
+  }
+}/* End custom CSS */

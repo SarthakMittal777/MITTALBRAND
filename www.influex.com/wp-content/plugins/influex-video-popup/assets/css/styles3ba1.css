@@ -1,0 +1,133 @@
+/* Magnific Popup Fade Effect */
+/* overlay at start */
+.mfp-fade.mfp-bg {
+	opacity: 0;
+
+	-webkit-transition: all 0.15s ease-out;
+	-moz-transition: all 0.15s ease-out;
+	transition: all 0.15s ease-out;
+}
+
+/* overlay animate in */
+.mfp-fade.mfp-bg.mfp-ready {
+	opacity: 0.8;
+}
+
+/* overlay animate out */
+.mfp-fade.mfp-bg.mfp-removing {
+	opacity: 0;
+}
+
+/* content at start */
+.mfp-fade.mfp-wrap .mfp-content {
+	opacity: 0;
+
+	-webkit-transition: all 0.15s ease-out;
+	-moz-transition: all 0.15s ease-out;
+	transition: all 0.15s ease-out;
+}
+
+/* content animate it */
+.mfp-fade.mfp-wrap.mfp-ready .mfp-content {
+	opacity: 1;
+}
+
+/* content animate out */
+.mfp-fade.mfp-wrap.mfp-removing .mfp-content {
+	opacity: 0;
+}
+
+/* ---------- */
+
+/* Influex Popup Video */
+.influex-popup-video.has-bg {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 0;
+	position: relative;
+	padding-top: 56.25%;
+}
+
+.influex-popup-video>a {
+	background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAA4CAMAAABjTeDmAAAAM1BMVEUAAAD59e759e759e759e759e759e759e759e759e759e759e759e759e759e759e759e4PqjiKAAAAEHRSTlMA+9VIEQRqt+sqlIwk77JxuX4kXQAAAK9JREFUSMe11jkOwkAUBFEbvGAYQ9//tCQlIZFYFfTkFTx7lj+9xyRX5tcii+SxrbJIbndbJPuwBRxRwBEFHFPAOVQBRxVwTAFHFXBskfm5qAKOKeCoAo4q4KgCjingqAKOKuDIIjm31RRwbAHnVwhOzDo/qyngNAs+cle+H70/+L/pBaCy2wH0Ti2A2u0DoHWLXj88F4DCiwOg9XIC6E0AALqTzD6KExmA5mTpp9cvly9UnPSpBgoAAAAASUVORK5CYII=');
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: center;
+}
+
+.influex-popup-video>a.has-icon {
+	display: block;
+	width: 100px;
+	height: 100px;
+}
+
+.influex-popup-video>a:not(.has-icon) {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+}
+
+.influex-popup-video.has-bg > a.has-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+.influex-popup-video.has-bg > .video-duration {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    z-index: 1;
+    padding: 4px 6px;
+    line-height: 1;
+    color: #fff;
+    background-color: rgba( 0, 0, 0, 0.75 );
+    border-radius: 6px;
+}
+
+.mfp-content .video-player-box {
+	max-width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.mfp-content .video-player {
+	height: 0;
+	overflow: hidden;
+	padding-top: 56.25%;
+	position: relative;
+}
+
+.mfp-content .video-player>iframe {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.mfp-content .video-player-box .mfp-close {
+	position: absolute;
+	top: -50px;
+	right: -50px;
+	color: #fff;
+	font-size: 3em;
+	opacity: 1;
+}
+
+@media only screen and (max-width: 1366px) {
+	.mfp-content .video-player-box .mfp-close {
+		right: 0;
+	}
+}
